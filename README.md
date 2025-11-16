@@ -1,4 +1,4 @@
-<h1>Ollama Chatbot</h1>
+<h1>ChatBot-Using-Ollama-LangChain</h1>
 
 <h2>Prerequisites</h2>
 <ul>
